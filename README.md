@@ -6,8 +6,6 @@
 
 ---
 
-### 🛠️ Skills
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
@@ -38,14 +36,14 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
 
 
-## 🏆 Achievements
+## Achievements
 - 🥇 **1st Place:** PolyHacks 2024, Bell’s GeekFest 2023, UdeM Diro 2024  
 - 🥉 **3rd Place:** UdeM Diro 2023, MariHacks 2023  
 - **Other Prizes:** BrebeufHx 2024, Conuhacks 2024
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: gabriel.mikus11@gmail.com  
 - LinkedIn: [linkedin.com/in/gabriel-mikus-728a2326b](https://www.linkedin.com/in/gabriel-mikus-728a2326b/)  
 
