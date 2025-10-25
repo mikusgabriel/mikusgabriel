@@ -2,7 +2,7 @@
 
 🎓 **Bachelor's in Computer Science | University of Montreal**  
 💻 **Full-stack Developer & Cloud | Genetec Inc.**  
-🏆 **Hackathon Winner | 12x Participant**  
+🏆 **Hackathon Winner | 18x Participant**  
 
 ---
 
