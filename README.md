@@ -2,7 +2,7 @@
 
 🎓 **Bachelor's in Computer Science | University of Montreal**  
 💻 **Full-stack Developer & Cloud | Genetec Inc.**  
-🏆 **Hackathon Winner | 18x Participant**  
+🏆 **[Hackathon Winner]([https://devpost.com/gabriel-mikus11](https://devpost.com/gabriel-mikus11?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) | 18x Participant**  
 
 ---
 
