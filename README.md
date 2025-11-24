@@ -45,6 +45,7 @@
 
 ## Contact Me
 - Email: gabriel.mikus11@gmail.com  
-- LinkedIn: [linkedin.com/in/gabriel-mikus-728a2326b](https://www.linkedin.com/in/gabriel-mikus-728a2326b/)  
+- LinkedIn: [linkedin.com/in/gabriel-mikus-728a2326b](https://www.linkedin.com/in/gabriel-mikus-728a2326b/)
+- Devpost: [https://devpost.com/gabriel-mikus11](https://devpost.com/gabriel-mikus11?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
